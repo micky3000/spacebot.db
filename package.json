@@ -1,0 +1,22 @@
+{
+      "name": "spacebot.db",
+      "version": "1.1.1",
+      "description": "Türkçe veri modülü. Verileri kaydeder.",
+      "main": "index.js",
+      "types": "./index.d.ts",
+      "scripts": {
+        "test": "node test.js"
+      },
+      "keywords": [
+        "db",
+        "database",
+        "spacebot.db",
+        "data",
+        "veri",
+        "discord",
+        "bot"
+      ],
+      "author": "Türker#0001",
+      "license": "MIT"
+    }
+    
